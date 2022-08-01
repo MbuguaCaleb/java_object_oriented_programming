@@ -73,19 +73,24 @@ why OOP Is very relavant.
 **What will be Covered**
 
 ```aidl
+LESSON ONE
 
 Classes
 
-
-POlymorphism and Encapsulation
-
-Refactoring towards OOP
+Encapsulation and Abstraction
+Refactoring functional code to Object Oriented Code.
 
 
-Inheritance and POlyMorphsim
+LESSON TWO
+
+Next Two Principles.
+
+POlymorphism and Inheritance
 
 
-Interfaces.
+LESSON THREE
+
+Interfaces/
 
 
 ```
